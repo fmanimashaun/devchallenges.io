@@ -38,12 +38,11 @@
 
 ![screenshot](final-solution.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This challenge was undertaken to further strengthen my understanding of basic HTML and CSS with consideration for responsive design.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- The live demo can be see on [Netlify](https://404-not-found-fm.netlify.app/)
+- So far, I believe can say I am getting good with reading UI/UX design on figma and implementing the design using HTML/CSS
+- WI feel there is still alot to learn and understand with respect to layout
 
 ### Built With
 
